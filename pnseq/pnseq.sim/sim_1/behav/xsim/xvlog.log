@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sources_1/new/pnseq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_flip_flop
+INFO: [VRFC 10-311] analyzing module pnseq
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

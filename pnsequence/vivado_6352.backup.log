@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Sep 26 14:53:39 2023
+# Process ID: 6352
+# Current directory: D:/SMD/FPGA/pnsequence
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18704 D:\SMD\FPGA\pnsequence\pnsequence.xpr
+# Log file: D:/SMD/FPGA/pnsequence/vivado.log
+# Journal file: D:/SMD/FPGA/pnsequence\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SMD/FPGA/pnsequence/pnsequence.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/VERILOG/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:01:09 ; elapsed = 00:01:05 . Memory (MB): peak = 886.578 ; gain = 237.613
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 26 15:43:13 2023...

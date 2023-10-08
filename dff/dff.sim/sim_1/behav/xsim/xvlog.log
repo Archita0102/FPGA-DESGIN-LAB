@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SMD/dff/dff.srcs/sources_1/new/dff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/SMD/dff/dff.srcs/sim_1/new/dff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff_tb

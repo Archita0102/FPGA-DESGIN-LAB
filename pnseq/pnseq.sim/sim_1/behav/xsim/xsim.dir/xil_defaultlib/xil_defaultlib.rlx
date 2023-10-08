@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/SMD/FPGA/LAB/dff/dff.srcs/sources_1/new/dff.v,1696744321,verilog,,D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sources_1/new/pnseq.v,,dff,,,,,,,,
+D:/SMD/FPGA/LAB/pnseq/pnseq.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sim_1/new/testbench.v,1696757060,verilog,,,,testbench,,,,,,,,
+D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sources_1/new/pnseq.v,1696757428,verilog,,D:/SMD/FPGA/LAB/pnseq/pnseq.srcs/sim_1/new/testbench.v,,d_flip_flop;pnseq,,,,,,,,
