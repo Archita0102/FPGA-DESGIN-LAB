@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mulsignd_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="mulsignd_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="10380fs"></ZoomStartTime>
+      <ZoomEndTime time="16261fs"></ZoomEndTime>
+      <Cursor1Time time="33680fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="135"></NameColumnWidth>
+      <ValueColumnWidth column_width="82"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/mulsignd_tb/a" type="array">
+      <obj_property name="ElementShortName">a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/b" type="array">
+      <obj_property name="ElementShortName">b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m1" type="array">
+      <obj_property name="ElementShortName">m1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m1[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m2" type="array">
+      <obj_property name="ElementShortName">m2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m2[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m3" type="array">
+      <obj_property name="ElementShortName">m3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m3[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m4" type="array">
+      <obj_property name="ElementShortName">m4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m4[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m5" type="array">
+      <obj_property name="ElementShortName">m5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m5[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m6" type="array">
+      <obj_property name="ElementShortName">m6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m6[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m7" type="array">
+      <obj_property name="ElementShortName">m7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m7[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/m8" type="array">
+      <obj_property name="ElementShortName">m8[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m8[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s1" type="array">
+      <obj_property name="ElementShortName">s1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s1[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s2" type="array">
+      <obj_property name="ElementShortName">s2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s2[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s3" type="array">
+      <obj_property name="ElementShortName">s3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s3[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s4" type="array">
+      <obj_property name="ElementShortName">s4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s4[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s5" type="array">
+      <obj_property name="ElementShortName">s5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s5[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s6" type="array">
+      <obj_property name="ElementShortName">s6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s6[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mulsignd_tb/s" type="array">
+      <obj_property name="ElementShortName">s[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

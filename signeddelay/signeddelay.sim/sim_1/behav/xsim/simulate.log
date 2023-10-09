@@ -1,0 +1,41 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+time =   0, A =    1, B =   -1,S=     x
+time =  10, A =    2, B =   -2,S=     x
+time =  14, A =    2, B =   -2,S=     X
+time =  15, A =    2, B =   -2,S=     X
+time =  17, A =    2, B =   -2,S=     X
+time =  18, A =    2, B =   -2,S=     X
+time =  19, A =    2, B =   -2,S=     X
+time =  20, A =   -2, B =   -2,S=     X
+time =  21, A =   -2, B =   -2,S=     X
+time =  22, A =   -2, B =   -2,S=     X
+time =  24, A =   -2, B =   -2,S=     X
+time =  25, A =   -2, B =   -2,S=     X
+time =  26, A =   -2, B =   -2,S=     X
+time =  27, A =   -2, B =   -2,S=     X
+time =  28, A =   -2, B =   -2,S=     X
+time =  29, A =   -2, B =   -2,S=     X
+time =  30, A =   -2, B =   -2,S=   476
+time =  31, A =   -2, B =   -2,S=  -356
+time =  32, A =   -2, B =   -2,S=   748
+time =  33, A =   -2, B =   -2,S=   844
+time =  34, A =   -2, B =   -2,S=   372
+time =  35, A =   -2, B =   -2,S=   -92
+time =  36, A =   -2, B =   -2,S=  -188
+time =  37, A =   -2, B =   -2,S=  -380
+time =  38, A =   -2, B =   -2,S=  -764
+time =  39, A =   -2, B =   -2,S=  -508
+time =  40, A =   -2, B =   -2,S= -2044
+time =  41, A =   -2, B =   -2,S= -1020
+time =  42, A =   -2, B =   -2,S= -4092
+time =  43, A =   -2, B =   -2,S= -2044
+time =  44, A =   -2, B =   -2,S= -8188
+time =  45, A =   -2, B =   -2,S= -4092
+time =  46, A =   -2, B =   -2,S=-16380
+time =  47, A =   -2, B =   -2,S= -8188
+time =  48, A =   -2, B =   -2,S=-32764
+time =  49, A =   -2, B =   -2,S=-16380
+time =  50, A =   -2, B =   -2,S=     4
+time =  51, A =   -2, B =   -2,S=-32764
+time =  52, A =   -2, B =   -2,S=     4

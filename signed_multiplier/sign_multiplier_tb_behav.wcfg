@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sign_multiplier_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sign_multiplier_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1050fs"></ZoomStartTime>
+      <ZoomEndTime time="5790fs"></ZoomEndTime>
+      <Cursor1Time time="10000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="118"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/sign_multiplier_tb/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/PRODUCT" type="array">
+      <obj_property name="ElementShortName">PRODUCT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">PRODUCT[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/PARTIAL_PRODUCTS" type="array">
+      <obj_property name="ElementShortName">PARTIAL_PRODUCTS[6:0][6:0]</obj_property>
+      <obj_property name="ObjectShortName">PARTIAL_PRODUCTS[6:0][6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM" type="array">
+      <obj_property name="ElementShortName">SUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_1" type="array">
+      <obj_property name="ElementShortName">SUM_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_1[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_2" type="array">
+      <obj_property name="ElementShortName">SUM_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_2[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_3" type="array">
+      <obj_property name="ElementShortName">SUM_3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_3[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_4" type="array">
+      <obj_property name="ElementShortName">SUM_4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_4[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_5" type="array">
+      <obj_property name="ElementShortName">SUM_5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_5[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_6" type="array">
+      <obj_property name="ElementShortName">SUM_6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_6[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sign_multiplier_tb/mult/SUM_7" type="array">
+      <obj_property name="ElementShortName">SUM_7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SUM_7[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

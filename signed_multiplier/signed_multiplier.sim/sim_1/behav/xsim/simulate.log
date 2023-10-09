@@ -1,0 +1,6 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+A = 11111101
+B = 11111101
+Product = 0000000000001011
+$finish called at time : 10 ns : File "D:/SMD/FPGA/signed_multiplier/signed_multiplier.srcs/sim_1/new/signed_multiplier_tb.v" Line 26

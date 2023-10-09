@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Sep 14 18:08:19 2023
+# Process ID: 17724
+# Current directory: D:/SMD/FPGA/signed_multiplier
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19108 D:\SMD\FPGA\signed_multiplier\signed_multiplier.xpr
+# Log file: D:/SMD/FPGA/signed_multiplier/vivado.log
+# Journal file: D:/SMD/FPGA/signed_multiplier\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SMD/FPGA/signed_multiplier/signed_multiplier.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source signed_multiplier_tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/signed_multiplier_tb/uut/SUM}} {{/signed_multiplier_tb/uut/SUM_1}} {{/signed_multiplier_tb/uut/SUM_2}} {{/signed_multiplier_tb/uut/SUM_3}} {{/signed_multiplier_tb/uut/SUM_4}} {{/signed_multiplier_tb/uut/SUM_5}} {{/signed_multiplier_tb/uut/SUM_6}} {{/signed_multiplier_tb/uut/SUM_7}} {{/signed_multiplier_tb/uut/y2_1}} {{/signed_multiplier_tb/uut/y3_1}} {{/signed_multiplier_tb/uut/y4_1}} {{/signed_multiplier_tb/uut/y5_1}} {{/signed_multiplier_tb/uut/y6_1}} {{/signed_multiplier_tb/uut/y7_1}} {{/signed_multiplier_tb/uut/y8_1}} {{/signed_multiplier_tb/uut/t}} {{/signed_multiplier_tb/uut/x}} {{/signed_multiplier_tb/uut/y1}} {{/signed_multiplier_tb/uut/y2}} {{/signed_multiplier_tb/uut/y3}} {{/signed_multiplier_tb/uut/y4}} {{/signed_multiplier_tb/uut/y5}} {{/signed_multiplier_tb/uut/y6}} {{/signed_multiplier_tb/uut/y7}} {{/signed_multiplier_tb/uut/y8}} {{/signed_multiplier_tb/uut/yz}} 
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+save_wave_config {D:/SMD/FPGA/signed_multiplier/signed_multiplier_tb_behav.wcfg}
+add_files -fileset sim_1 -norecurse D:/SMD/FPGA/signed_multiplier/signed_multiplier_tb_behav.wcfg
+set_property xsim.view {D:/SMD/FPGA/signed_multiplier/sign_multiplier_tb_behav.wcfg D:/SMD/FPGA/signed_multiplier/signed_multiplier_tb_behav.wcfg} [get_filesets sim_1]
+close_sim

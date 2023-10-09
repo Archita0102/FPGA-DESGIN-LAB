@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Sep 13 16:23:50 2023
+# Process ID: 11956
+# Current directory: D:/SMD/FPGA/signed_multiplier
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5864 D:\SMD\FPGA\signed_multiplier\signed_multiplier.xpr
+# Log file: D:/SMD/FPGA/signed_multiplier/vivado.log
+# Journal file: D:/SMD/FPGA/signed_multiplier\vivado.jou
+#-----------------------------------------------------------sstart_guiopen_project D:/SMD/FPGA/signed_multiplier/signed_multiplier.xpr
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+IINFO: [Common 17-344] 'open_project' was cancelledeopen_project D:/SMD/FPGA/signed_multiplier/signed_multiplier.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/VERILOG/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:33 . Memory (MB): peak = 875.262 ; gain = 47.477
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Sep 13 16:44:03 2023...

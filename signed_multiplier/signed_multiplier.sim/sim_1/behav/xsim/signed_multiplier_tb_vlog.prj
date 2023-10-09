@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../signed_multiplier.srcs/sources_1/new/adding.v" \
+"../../../../../ripple_carry16/ripple_carry16.srcs/sources_1/new/fa.v" \
+"../../../../../ripple_carry16/ripple_carry16.srcs/sources_1/new/ripple.v" \
+"../../../../signed_multiplier.srcs/sim_1/new/signed_multiplier_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
